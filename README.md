@@ -1,5 +1,5 @@
 # instakroor v1.0
-## Author: https://github.com/Aruack
+## Author: @Aruack
 ## IG: instagram.com/official_aruack
 ### Don't copy this code without give me the credits, nerd! 
 instakroor is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
